@@ -1,5 +1,5 @@
 export default function ClientsLogo() {
-  const logos = ['keras.png', 'huggingface.png', 'opencv.png'];
+  const logos = ['slider-1-1.jpg', 'cta-two-bg-1-1.jpg', 'about-five-1-2.jpg'];
 
   return (
     <section className="py-12 px-6 bg-white text-center">

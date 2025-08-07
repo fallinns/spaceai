@@ -2,9 +2,9 @@ import Image from 'next/image'
 
 export default function ProjectsPreview() {
   const projects = [
-    { title: "Full Stack Development", image: "/images/proj1.png" },
-    { title: "AI Analysis Tool", image: "/images/proj2.png" },
-    { title: "E-commerce AI", image: "/images/proj3.png" },
+    { title: "Full Stack Development", image: "/images/about-three-1-1.png" },
+    { title: "AI Analysis Tool", image: "/images/about-five-1-1.jpg" },
+    { title: "E-commerce AI", image: "/images/about-five-1-2.jpg" },
   ];
 
   return (

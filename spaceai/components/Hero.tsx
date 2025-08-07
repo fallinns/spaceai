@@ -5,7 +5,7 @@ export default function Hero() {
   return (
     <section className="relative h-screen bg-gradient-to-r from-[#3c0d99] to-[#740b9d] text-white flex items-center justify-center text-center px-6">
       <Image
-        src="/images/hero-face.png"
+        src="/images/slider-1-2.jpg"
         alt="Hero BG"
         fill
         className="object-cover opacity-30 z-0"
