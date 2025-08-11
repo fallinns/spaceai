@@ -8,7 +8,7 @@ import { FiMenu, FiX, FiSearch } from 'react-icons/fi';
 
 const navItems = [
   { href: '/', label: 'HOME' },
-  { href: '/about', label: 'ABOUT US' },
+  { href: '/aboutUs', label: 'ABOUT US' },
   { href: '/services', label: 'SERVICES' },
   { href: '/projects', label: 'PROJECTS' },
   { href: '/store', label: 'STORE' },
