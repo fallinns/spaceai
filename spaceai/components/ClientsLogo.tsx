@@ -1,5 +1,5 @@
 export default function ClientsLogo() {
-  const logos = ['client-1-2.png', 'client-1-3.png', 'client-1-4.png', 'client-1-5.png', 'client-1-6.png', 'client-1-7.png', 'client-1-8.png', 'client-1-9.png', 'client-1-10.png', , 'client-1-11.png', 'client-1-12.png', 'client-1-13.png'];
+  const logos = ['client-1-2.png', 'client-1-3.png', 'client-1-4.png', 'client-1-5.png', 'client-1-6.png', 'client-1-7.png', 'client-1-8.png', 'client-1-9.png', 'client-1-10.png', , 'client-1-11.png', 'client-1-12.png'];
 
   return (
     <section className="py-12 px-6 bg-white text-center">
